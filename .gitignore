@@ -217,4 +217,6 @@ __marimo__/
 
 #file
 logs/he*
+logs/wi*
 output/proxy*
+output/ingest*
